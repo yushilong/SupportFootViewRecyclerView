@@ -3,4 +3,6 @@
 
 由于代码不是很多，就没写什么注释~~
 
+如需自定义加载更多View，只需修改googleprogressbar.xml布局文件即可。
+
 ![Aaron Swartz](https://github.com/yushilong/SupportFootViewRecyclerView/raw/master/imgs/QQ%E5%9B%BE%E7%89%8720160112144346.png)
